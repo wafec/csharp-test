@@ -1,4 +1,5 @@
 Feature: Test Git
+  @ready
   Scenario: Test Git Status
     Given I am in the Git bash
     When I tap Git status
